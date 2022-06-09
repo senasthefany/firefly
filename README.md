@@ -1,4 +1,4 @@
-# Run multiple files on Firefly
+## Run multiple files on Firefly
 
 The script is used to perform multiple calculations in a row on Firefly.
 
