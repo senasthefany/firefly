@@ -2,7 +2,7 @@
 
 The script is used to perform multiple calculations in a row on Firefly.
 
-First, give permission for execution: chmod 777 run_firefly.sh <br/>
+First, give permission for execution: chmod +x run_firefly.sh <br/>
 Then you can run this script: ./run_firefly.sh
 
 The script requires some steps for the first use:
